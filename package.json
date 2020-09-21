@@ -1,0 +1,17 @@
+{
+  "name": "WhatsAppPush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-status": "^1.4.2",
+    "joi": "^17.2.1",
+    "uuid": "^8.3.0"
+  }
+}
